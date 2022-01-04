@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Seerat Salman",
+      "username": "DrSam",
+      "email": "smartled5700i@gmail.com",
+      "phone": "+923234055679",
+      "website": "SamXtech",
+      "id": 1
+    },
+    {
+      "name": "Saif",
+      "username": "SeeratSalman",
+      "email": "jdalkjds@gmail.com",
+      "phone": "0030300201",
+      "website": "asdj",
+      "id": 2
+    },
+    {
+      "name": "Faisal",
+      "username": "kasjdl",
+      "email": "jdalkjds@gmail.com",
+      "phone": "0030300201",
+      "website": "SamXtech",
+      "id": 3
+    }
+  ]
+}
