@@ -10,7 +10,7 @@
 
 # production
 /build
-/.Node.js
+/.Nodejs
 
 # misc
 .DS_Store
