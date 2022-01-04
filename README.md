@@ -1,6 +1,8 @@
-## Quiz 1
+# Quiz 1 & 2
 Create a Complete Create Read Update And Delete Operations in React.
 
-this is CRUD base react app 
+including Form Submission and routing
+
+### This is CRUD base react app 
 
 
